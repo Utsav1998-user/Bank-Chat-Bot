@@ -5,11 +5,11 @@ class BankChatBot:
     user_input = input('You ').lower()
     def __init__(self):
         self.balance = 0
-        self.name = 'Utsav Sharma'
-        self.account_number = '123456789'
-        self.IFSC_Code = 'ABC968949'
-        self.account_type = 'Savings'
-        self.current_balance = 'current_balance'
+        self.name = '' 
+        self.account_number = ''
+        self.IFSC_Code = ''
+        self.account_type = ''
+        self.current_balance = ''
         time.sleep(1)
         print('Hello...! Welcome to Bank Chat Bot')
         time.sleep(1)
