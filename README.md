@@ -41,6 +41,10 @@ Can be extended into a full banking assistant with databases and APIs.
 
 ✨ Example
 
-https://github.com/user-attachments/assets/5ee1ba34-53a8-45b7-bf28-f88f439af946
+
+https://github.com/user-attachments/assets/2a25a406-0641-4fb8-af63-3df9e257d564
+
+
+
 
 
